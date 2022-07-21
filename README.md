@@ -5,4 +5,4 @@ Add to Task Scheduler
 Start Program Powershell
 Argument: -File "C:\apps\task_fail_alert\script.ps1"
 
-Needs Microsoft.Exchange.WebServices.dll to run (Exchange Managed API 2.2).
+Needs Exchange Managed API 2.2 to run (C:\Program Files\Microsoft\Exchange\Web Services\2.2\Microsoft.Exchange.WebServices.dll to run).
